@@ -612,9 +612,6 @@ table{
     position: relative;
     right: 100px;
     bottom: 80px;
-}
-.social-media-logos:hover{
-	cursor: pointer;
 }	
 .last{
     background-color: #151515;
